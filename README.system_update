@@ -1,0 +1,7 @@
+The script upgrades the system and shows a notification at the end.
+The notification displays the upgraded packages. 
+
+Requires root privileges.
+
+Only tested on LinuxMint under the Mate desktop, but it should work on
+any Debian based distribution with "notify-send" installed.
